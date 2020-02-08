@@ -20,4 +20,4 @@ Achieve a score of at least 17 points overall, and at least one point in each do
 
 Curiosity, Capacity, Creativity, Determination, Ingenuity, Humility, Empathy
 
-**The name "Wonderlic" is copyright (C) Wonderlic, Inc. and used here simply for the purposes of example and context. This project has no connection with Wonderlic, Inc. **
+**The name "Wonderlic" is copyright (C) Wonderlic, Inc. and used here simply for the purposes of example and context. This project has no connection with Wonderlic, Inc.**
