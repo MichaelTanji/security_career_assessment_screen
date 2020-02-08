@@ -73,6 +73,28 @@ In the year 2525, on what day will they celebrate Christmas in Europe?
 
 ## Creativity
 
+When I play with Legos...
+
+* I build them according to the instructions and admire my work.
+* I bulid them according to the instructions and incorporate other bricks that I already have.
+* I try to build them without the instructions, referring to them when I get stuck.
+* I don't buy kits, I like building my own thing.
+
+When faced with a situation where I don't have all the tools I would normally use to complete a project I...
+
+* Wait till I can get all the tools I need.
+* Improvise with what I have.
+* Do what I can until I get to the part that needs the missing tool and let everyone know work will continue when I get the tool.
+* Call a friend and ask to borrow their tool and start once I have it.
+
+My kids came home from school today with math homework. When they showed me how they were taught to solve math problems I couldn't believe it wasn't the way I was taught.
+
+* Why do the schools have to mess with what works?
+* I guess there is more than one way to skin a cat.
+* I looked up this new method for teaching online and helped the kids with the work even though I disagreed with the approach.
+* I taught the kids to do it my way and called the school for a parent-teacher conference.
+
+
 ## Determination
 
 You’re in your doctor’s waiting room and the only thing to do to pass the time is a crossword in a children’s magazine. It is surprisingly difficult for the 8-12 year old audience it is supposed to be for:
