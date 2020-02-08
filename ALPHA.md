@@ -27,27 +27,27 @@ How often do you teach yourself how to make or do something?
 * I once tried to screw in a lightbulb. I mostly sit in the dark now.
 * I’m a classroom kind of person. If there isn’t a teacher are you really learning anything?
 
-You’ve just got your new flat-pack furniture home, opened the box, and found that two pages in the instructions are missing. Your next course of action is?
+You just got your new flat-pack furniture home, opened the box, and found that two pages in the instructions are missing. Your next course of action is?
 
-Spend another two hours in the car going back to the store for a complete copy of the directions.
-Go online to try and find a copy of the directions.
-Follow the directions as far as you can, and then test fit the remaining pieces to see if you can do it without directions.
-Call your brother in law over to help out; he bought the same piece of furniture six months ago.
+* Spend another two hours in the car going back to the store for a complete copy of the directions.
+* Go online to try and find a copy of the directions.
+* Follow the directions as far as you can, and then test fit the remaining pieces to see if you can do it without directions.
+* Call your brother in law over to help out; he bought the same piece of furniture six months ago.
 
 ## Determination
 
 You’re in your doctor’s waiting room and the only thing to do to pass the time is a crossword in a children’s magazine. It is surprisingly difficult for the 8-12 year old audience it is supposed to be for:
 
-* Keep at it until you’ve solved it. Tear out the puzzle page and take it home if you have to. Fuck you Highlights!
+* Keep at it until you’ve solved it. Tear out the puzzle page and take it home if you have to. F*** you *Highlights!*
 * Do what you can and leave it for the next patient.
 * Put it down and look at the tropical fish in the wall tank.
 * Ask the receptionist for something else to read; you’re a g-d adult!
 
 
-You are a part of a team that is responsible for planting 100 trees. You plant 75 trees by lunch. After lunch, you’re the only one to show up. Your next step is:
+You are a part of a five-person team that is responsible for planting 100 trees in a day. You plant 75 trees by lunch. After lunch, you’re the only one to show up. Your next step is:
 
-* Start planting sucker
-* Wait till the rest of the team shows up
+* Start planting sucker.
+* Wait till the rest of the team shows up.
 * Plant for a while, then look for the other members of the team, repeat.
 * Pack it up. It sounds like you missed some instructions otherwise the rest of the team would be here by now.
 
