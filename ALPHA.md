@@ -34,6 +34,45 @@ You just got your new flat-pack furniture home, opened the box, and found that t
 * Follow the directions as far as you can, and then test fit the remaining pieces to see if you can do it without directions.
 * Call your brother in law over to help out; he bought the same piece of furniture six months ago.
 
+## Capacity
+
+If you had to guess, the term “epoch time” means what?
+
+* The time that has passed since the big bang.
+* The time that has passed since a given point in time.
+* The time that has passed since the fall of the Roman empire.
+* The time left before the heat death of the universe.
+
+
+You need to connect two computers together. The first system uses the notional ALPHA type of port to connect to other devices; the second system uses the notional GAMMA type of port to connect to other devices. You have four cables with different types of connectors on either end: ALPHA to ALPHA (1), ALPHA to BRAVO (2); GAMMA to BRAVO (3); and GAMMA to ALPHA (4). Which cables do you need to connect the two computers together?
+
+* 1, 2, 3
+* 1, 2
+* 4
+* 3, 4
+
+Alice cannot swim; Bob cannot ride a bike; Charlie cannot run. In a team triathlon event, who performs the first, second, and last events?
+
+* Charlie, Bob, Alice
+* Bob, Charlie, Alice
+* Alice, Charlie, Bob
+* Bob, Alice, Charlie
+
+Alice has fallen out of a tree. She is complaining of shortness of breath, is bleeding from a cut on her arm, and is crying about the pain in her ankle: what do you try to treat first?
+
+* Her ankle
+* Her bleeding
+* Her shortness of breath
+
+In the year 2525, on what day will they celebrate Christmas in Europe?
+
+* 12/25/25
+* 25/12/25
+* 25/12/12
+* 25/25/25
+
+## Creativity
+
 ## Determination
 
 You’re in your doctor’s waiting room and the only thing to do to pass the time is a crossword in a children’s magazine. It is surprisingly difficult for the 8-12 year old audience it is supposed to be for:
@@ -117,7 +156,7 @@ You’re assigned to a project with two people who have less experience and skil
 * Start work on the parts you want to work on and give the rest to the other two.
 * Explain the risks of allowing inexperienced people to work on the project and ask for more senior people. 
 
-Empathy/Perspective
+## Empathy
 
 When someone comes to you with a problem your first instinct is to:
 
@@ -139,41 +178,3 @@ You’re briefing the boss about a problem. Failure to address the problem could
 * No. It's never OK to lie.
 * Yes. Lying is not a crime. You’re doing the right thing.
 * No. Your job is to inform. If company leadership wants to accept the risk, that’s on them.
-
-
-## Capacity
-
-If you had to guess, the term “epoch time” means what?
-
-* The time that has passed since the big bang.
-* The time that has passed since a given point in time.
-* The time that has passed since the fall of the Roman empire.
-* The time left before the heat death of the universe.
-
-
-You need to connect two computers together. The first system uses the notional ALPHA type of port to connect to other devices; the second system uses the notional GAMMA type of port to connect to other devices. You have four cables with different types of connectors on either end: ALPHA to ALPHA (1), ALPHA to BRAVO (2); GAMMA to BRAVO (3); and GAMMA to ALPHA (4). Which cables do you need to connect the two computers together?
-
-* 1, 2, 3
-* 1, 2
-* 4
-* 3, 4
-
-Alice cannot swim; Bob cannot ride a bike; Charlie cannot run. In a team triathlon event, who performs the first, second, and last events?
-
-* Charlie, Bob, Alice
-* Bob, Charlie, Alice
-* Alice, Charlie, Bob
-* Bob, Alice, Charlie
-
-Alice has fallen out of a tree. She is complaining of shortness of breath, is bleeding from a cut on her arm, and is crying about the pain in her ankle: what do you try to treat first?
-
-* Her ankle
-* Her bleeding
-* Her shortness of breath
-
-In the year 2525, on what day will they celebrate Christmas in Europe?
-
-* 12/25/25
-* 25/12/25
-* 25/12/12
-* 25/25/25
