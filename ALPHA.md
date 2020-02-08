@@ -94,44 +94,6 @@ You supervise a team of 10 people. One of them comes to you with a new idea for 
 * Explain the new process to the other nine people and let everyone benefit from the new approach.
 
 
-## Problem Solving
-
-If you had to guess, the term “epoch time” means what?
-
-* The time that has passed since the big bang.
-* The time that has passed since a given point in time.
-* The time that has passed since the fall of the Roman empire.
-* The time left before the heat death of the universe.
-
-
-You need to connect two computers together. The first system uses the notional ALPHA type of port to connect to other devices; the second system uses the notional GAMMA type of port to connect to other devices. You have four cables with different types of connectors on either end: ALPHA to ALPHA (1), ALPHA to BRAVO (2); GAMMA to BRAVO (3); and GAMMA to ALPHA (4). Which cables do you need to connect the two computers together?
-
-* 1, 2, 3
-* 1, 2
-* 4
-* 3, 4
-
-Alice cannot swim; Bob cannot ride a bike; Charlie cannot run. In a team triathlon event, who performs the first, second, and last events?
-
-* Charlie, Bob, Alice
-* Bob, Charlie, Alice
-* Alice, Charlie, Bob
-* Bob, Alice, Charlie
-
-Alice has fallen out of a tree. She is complaining of shortness of breath, is bleeding from a cut on her arm, and is crying about the pain in her ankle: what do you try to treat first?
-
-* Her ankle
-* Her bleeding
-* Her shortness of breath
-
-In the year 2525, on what day will they celebrate Christmas in Europe?
-
-* 12/25/25
-* 25/12/25
-* 25/12/12
-* 25/25/25
-
-
 ## Humility
 
 Your work on a project was minimal. The project took off though, and it has become something of a global phenomenon. When people find out you were a part of the project you feel:
@@ -181,7 +143,37 @@ You’re briefing the boss about a problem. Failure to address the problem could
 
 ## Capacity
 
-One More
-Two More
-Three More
-Four More
+If you had to guess, the term “epoch time” means what?
+
+* The time that has passed since the big bang.
+* The time that has passed since a given point in time.
+* The time that has passed since the fall of the Roman empire.
+* The time left before the heat death of the universe.
+
+
+You need to connect two computers together. The first system uses the notional ALPHA type of port to connect to other devices; the second system uses the notional GAMMA type of port to connect to other devices. You have four cables with different types of connectors on either end: ALPHA to ALPHA (1), ALPHA to BRAVO (2); GAMMA to BRAVO (3); and GAMMA to ALPHA (4). Which cables do you need to connect the two computers together?
+
+* 1, 2, 3
+* 1, 2
+* 4
+* 3, 4
+
+Alice cannot swim; Bob cannot ride a bike; Charlie cannot run. In a team triathlon event, who performs the first, second, and last events?
+
+* Charlie, Bob, Alice
+* Bob, Charlie, Alice
+* Alice, Charlie, Bob
+* Bob, Alice, Charlie
+
+Alice has fallen out of a tree. She is complaining of shortness of breath, is bleeding from a cut on her arm, and is crying about the pain in her ankle: what do you try to treat first?
+
+* Her ankle
+* Her bleeding
+* Her shortness of breath
+
+In the year 2525, on what day will they celebrate Christmas in Europe?
+
+* 12/25/25
+* 25/12/25
+* 25/12/12
+* 25/25/25
