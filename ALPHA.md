@@ -95,6 +95,13 @@ You’re in your doctor’s waiting room and the only thing to do to pass the ti
 * Put it down and look at the tropical fish in the wall tank.
 * Ask the receptionist for something else to read; you’re a g-d adult!
 ---
+You made a mistake, but didn’t realize it at the time. The mistake became public and circumstances are such that someone else is getting all the blame. This is not a trivial matter and the repercussions could be severe.
+
+* Better them than me.
+* Reveal the source of the problem anonymously and without naming names. The problem will get fixed and no one has to get in trouble.
+* Own up and take what’s coming.
+* Admit that you had _a_ role in what happened, but spread the blame around. They can’t punish everyone.
+---
 You are a part of a five-person team that is responsible for planting 100 trees in a day. You plant 75 trees by lunch. After lunch, you’re the only one to show up. Your next step is:
 
 * Start planting sucker.
@@ -125,45 +132,38 @@ You are looking up something in a search engine. The best result or answer to yo
 ---
 You know nothing about the field of X. How do you go about getting a job in the field?
 
-* Read/study as much as I can, join X groups and absorb as much knowledge as I can. Try to get an entry-level gig somewhere.
-* Find a graduate/undergraduate program, apply, network, hit the job fairs before graduation.
-*  Asfafs
-* Asfa
+* Study as much as I can and join X discussion groups. Build up a reputation and then start applying for jobs.
+* Try to get an entry-level job in a company that does X, even if it isn't directly involved in X.
+* Find a college program i X, network, hit the job fairs before graduation.
+* Study as much as I can. Work on small personal projects in X and share them. Apply for jobs.
 ---
 At work, when you get done with your assigned tasks, your first instinct is to:
 
 * Take on more work.
-* Figure out how to make my job easier.
+* Write some code, build a jig, or other task that will make my job easier.
 * Help others with their work.
 * Work on something I want to not have to.
 ---
-Your workplace has suggestion boxes everywhere. The boss always says his door is open to talk about new ideas and ways of doing things. 
+The boss always says his door is open to talk about new ideas and ways of doing things. Your take on this is:
 
 * That’s what every boss says; they don’t mean it. They’re not going to mess with what got them where they are.
 * Bob brought an idea to the boss once and a month later he was fired.
-* Bob brought an idea to the boss once, they tried it and it failed miserably.
-
+* Alice brought an idea to the boss once, they tried it, it worked, and all Alice got was a $100 gift card.
+* Might as well give it a shot; if it works you're hero and if it doesn't you don't want to work in a place like this anyway.
 ---
 You supervise a team of 10 people. One of them comes to you with a new idea for how to do their job. Your first instinct is to:
 
-* Remind them that there is one approved way to do the job and that they could get in trouble for changing things up.
+* Remind them that there is one approved way to do the job and that they could get in trouble for changing things.
 * Point out the risks involved in doing things differently.
-* Listen to the idea, assess its worthiness and compliance with organizational standards and goals, and let them try.
-* Explain the new process to the other nine people and let everyone benefit from the new approach.
+* Listen to the idea, assess its worthiness and compliance with organizational standards and goals, and if the risk is low, let them try.
+* Explain the new idea to the other nine people and make sure they all adopt it. Let everyone benefit from the new approach.
 ---
 Your work on a project was minimal. The project took off though, and it has become something of a global phenomenon. When people find out you were a part of the project you feel:
 
 * Proud
 * Ashamed
 * Conflicted
-* Embarrassed
----
-You made a mistake, but didn’t realize it at the time. The mistake became public and circumstances are such that someone else is getting all the blame. This is not a trivial matter and the repercussions could be severe.
-
-* Better them than me.
-* Reveal the source of the problem anonymously and without naming names. The problem will get fixed and no one has to get in trouble.
-* Own up and take what’s coming.
-* Admit that you had _a_ role in what happened, but spread the blame around. They can’t punish everyone.
+* Sad
 ---
 You’re assigned to a project with two people who have less experience and skill than you do. Your first instinct is to:
 
@@ -172,19 +172,19 @@ You’re assigned to a project with two people who have less experience and skil
 * Start work on the parts you want to work on and give the rest to the other two.
 * Explain the risks of allowing inexperienced people to work on the project and ask for more senior people. 
 ---
-When someone comes to you with a problem your first instinct is to:
+A friend or family member comes to you because something they bought is not working properly, or at all. Your first instict is to:
 
-* Tell them to read the manual or look up the issue online. People need to learn how to help themselves, and in an age of instant information this is easier than ever.
-* Help them as best I can, looking up what the problem might be and working through the troubleshooting steps with them. This way they’re more comfortable solving problems on their own in the future.
+* Tell them to read the manual or look up the issue online. In an age of instant information it is easier than ever for people to help themselves.
 * Direct them to the manufacturer or service provider for help; they get paid for that sort of thing.
-* Take a quick look and tell them it's fucked and that they need a new machine.
+* Help them as best I can, looking up what the problem might be and working through the troubleshooting steps with them. This way they’re more comfortable solving problems on their own in the future.
+* Take a quick look and tell them it's beyond repair and that they need a new one.
 ---
 Five blind people are placed in different positions around an elephant. Each person puts their hands on the elephant. How many different descriptions of an elephant might you get?
 
-* 3, they can only realistically depict the trunk, legs and tail.
-* 10, 5 people, 2 hands each.
-* 5, five people, five descriptions
-* 1, how do you misinterpret what an elephant looks like?
+* 3: They can only realistically depict the trunk, legs and tail.
+* 10: 5 people, 2 hands each.
+* 5: Five people, five descriptions
+* 1: How do you misinterpret what an elephant looks like, even if you can't see?
 ---
 You’re briefing the boss about a problem. Failure to address the problem could lead to a material event. Is it OK to lie a little bit about how bad the problem is if you know the boss would otherwise blow it off?
 
@@ -195,7 +195,7 @@ You’re briefing the boss about a problem. Failure to address the problem could
 ---
 There are eight bits in a byte. There are 1024 bytes in a kilobyte, 1,048,576 bytes in a megabyte: roughly how many megabytes are in a gigabyte?
 
-* 1024
+* 1000
 * 1,073,741,824
 * 2048
 * 1,048,576
