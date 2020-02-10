@@ -1,5 +1,3 @@
-## Curiosity
-
 Your widget is broken. You walk through the troubleshooting steps in the widget manual but it still doesn’t work. Your next step is:
 
 * Google
@@ -34,22 +32,19 @@ You just got your new flat-pack furniture home, opened the box, and found that t
 * Follow the directions as far as you can, and then test fit the remaining pieces to see if you can do it without directions.
 * Call your brother in law over to help out; he bought the same piece of furniture six months ago.
 ---
-## Capacity
-
 If you had to guess, the term “epoch time” means what?
 
 * The time that has passed since the big bang.
 * The time that has passed since a given point in time.
 * The time that has passed since the fall of the Roman empire.
 * The time left before the heat death of the universe.
-
 ---
-You need to connect two computers together. The first system uses the notional ALPHA type of port to connect to other devices; the second system uses the notional GAMMA type of port to connect to other devices. You have four cables with different types of connectors on either end: ALPHA to ALPHA (1), ALPHA to BRAVO (2); GAMMA to BRAVO (3); and GAMMA to ALPHA (4). Which cables do you need to connect the two computers together?
+You need to connect two computers together. The first computer uses the notional ALPHA type of port to connect to other devices; the second computer uses the notional GAMMA type of port to connect to other devices. You have four cables with different types of connectors on either end: ALPHA to ALPHA (1), ALPHA to BRAVO (2); GAMMA Female to GAMMA Male (3); and GAMMA to ALPHA (4). Which cable(s) do you need to connect the two computers together?
 
 * 1, 2, 3
 * 1, 2
 * 4
-* 3, 4
+* 3
 ---
 Alice cannot swim; Bob cannot ride a bike; Charlie cannot run. In a team triathlon event, who performs the first, second, and last events?
 
@@ -63,6 +58,7 @@ Alice has fallen out of a tree. She is complaining of shortness of breath, is bl
 * Her ankle
 * Her bleeding
 * Her shortness of breath
+* Her headache
 ---
 In the year 2525, on what day will they celebrate Christmas in Europe?
 
@@ -71,8 +67,6 @@ In the year 2525, on what day will they celebrate Christmas in Europe?
 * 25/12/12
 * 25/25/25
 ---
-## Creativity
-
 When I play with Legos...
 
 * I build them according to the instructions and admire my work.
@@ -94,24 +88,19 @@ My kids came home from school today with math homework. When they showed me how 
 * I looked up this new method for teaching online and helped the kids with the work even though I disagreed with the approach.
 * I taught the kids to do it my way and called the school for a parent-teacher conference.
 ---
-
-## Determination
-
 You’re in your doctor’s waiting room and the only thing to do to pass the time is a crossword in a children’s magazine. It is surprisingly difficult for the 8-12 year old audience it is supposed to be for:
 
-* Keep at it until you’ve solved it. Tear out the puzzle page and take it home if you have to. F*** you *Highlights!*
+* Keep at it until you’ve solved it. Tear out the puzzle page and take it home if you have to. Fxxx you *Highlights!*
 * Do what you can and leave it for the next patient.
 * Put it down and look at the tropical fish in the wall tank.
 * Ask the receptionist for something else to read; you’re a g-d adult!
 ---
-
 You are a part of a five-person team that is responsible for planting 100 trees in a day. You plant 75 trees by lunch. After lunch, you’re the only one to show up. Your next step is:
 
 * Start planting sucker.
 * Wait till the rest of the team shows up.
 * Plant for a while, then look for the other members of the team, repeat.
 * Pack it up. It sounds like you missed some instructions otherwise the rest of the team would be here by now.
-
 ---
 You’ve got a solid GPA and great test scores. Your first choice for college rejected you, but you got into your safety school. Right now you’re feeling...
 
@@ -120,13 +109,20 @@ You’ve got a solid GPA and great test scores. Your first choice for college re
 * Disappointed. The Ivy League was the first step to life in the fast lane. I guess it's mediocrity FTW.
 * There is always the Navy
 ---
-Next
+Your supervisor gives you a task to complete. She tells you what she wants done verbally, and hands you a sheet of paper with specific directions on it. What do you do next?
 
+* Read the directions, integrate what you read with what you were told, and begin work.
+* Follow the directions; she may have forgotten a step.
+* Follow her verbal directions; she knows what she’s doing and probably knows what directions can be skipped to get done faster.
+* Read the directions, identify any discrepancies between the written directions and the verbal ones, find your supervisor and ask for clarification before beginning.
 ---
-Next
----
-## Ingenuity
+You are looking up something in a search engine. The best result or answer to your question is?
 
+* The first answer
+* One of the first three answers
+* Potentially none of them 
+* Any answer on the first page of results should be OK.
+---
 You know nothing about the field of X. How do you go about getting a job in the field?
 
 * Read/study as much as I can, join X groups and absorb as much knowledge as I can. Try to get an entry-level gig somewhere.
@@ -154,10 +150,7 @@ You supervise a team of 10 people. One of them comes to you with a new idea for 
 * Point out the risks involved in doing things differently.
 * Listen to the idea, assess its worthiness and compliance with organizational standards and goals, and let them try.
 * Explain the new process to the other nine people and let everyone benefit from the new approach.
-
 ---
-## Humility
-
 Your work on a project was minimal. The project took off though, and it has become something of a global phenomenon. When people find out you were a part of the project you feel:
 
 * Proud
@@ -179,8 +172,6 @@ You’re assigned to a project with two people who have less experience and skil
 * Start work on the parts you want to work on and give the rest to the other two.
 * Explain the risks of allowing inexperienced people to work on the project and ask for more senior people. 
 ---
-## Empathy
-
 When someone comes to you with a problem your first instinct is to:
 
 * Tell them to read the manual or look up the issue online. People need to learn how to help themselves, and in an age of instant information this is easier than ever.
@@ -202,3 +193,16 @@ You’re briefing the boss about a problem. Failure to address the problem could
 * Yes. Lying is not a crime. You’re doing the right thing.
 * No. Your job is to inform. If company leadership wants to accept the risk, that’s on them.
 ---
+There are eight bits in a byte. There are 1024 bytes in a kilobyte, 1,048,576 bytes in a megabyte: roughly how many megabytes are in a gigabyte?
+
+* 1024
+* 1,073,741,824
+* 2048
+* 1,048,576
+---
+Which of the following resources might you consider using when trying to learn about a new subject? 
+
+* The Library
+* Google
+* YouTube
+* All of the above
