@@ -6,21 +6,21 @@ Your widget is broken. You walk through the troubleshooting steps in the widget 
 * Call the widget manufacturer’s 1-800 number
 * Try to find someone who owns the same widget and ask them
 * Take the widget back to the store for a new one
-
+---
 You’ve been making widgets for 10 years. Your family has made widgets going back five generations. By chance you meet someone who also makes widgets, but using a totally different technique and materials. Your initial response is: 
 
 * Are you seriously going to tell me how to make widgets?
 * I’ve never heard of widgets being made like that. How does it work?
 * I’m not interested, but I’m glad it's working for you.
 * Whatever you’re doing, it's not making widgets.
-
+---
 You get a job in a widget factory and as a part of your training are shown exactly the steps to take, and buttons to push on the widget making machine. Of the 20 different potential settings on the machine, you only regularly use 7. When your shift is over the factory is winding down for the night, you…
 
 * Clean up and head for the parking lot.
 * Throw some scrap widget material in the machine and see what those other 13 settings do.
 * Talk to your supervisor to see if he’ll show you what those other 13 settings do.
 * Dig out the widget machine manual and take it home to read.
-
+---
 How often do you teach yourself how to make or do something?
 
 * I’m the king of YouTube how-to videos. Half the stuff I own I made myself.
