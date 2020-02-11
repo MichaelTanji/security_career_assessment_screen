@@ -5,32 +5,12 @@ Your widget is broken. You walk through the troubleshooting steps in the widget 
 * Try to find someone who owns the same widget and ask them
 * Take the widget back to the store for a new one
 ---
-You’ve been making widgets for 10 years. Your family has made widgets going back five generations. By chance you meet someone who also makes widgets, but using a totally different technique and materials. Your initial response is: 
+How often do you teach yourself how to make or repair something?
 
-* Are you seriously going to tell me how to make widgets?
-* I’ve never heard of widgets being made like that. How does it work?
-* I’m not interested, but I’m glad it's working for you.
-* Whatever you’re doing, it's not making widgets.
----
-You get a job in a widget factory and as a part of your training are shown exactly the steps to take, and buttons to push on the widget making machine. Of the 20 different potential settings on the machine, you only regularly use 7. When your shift is over the factory is winding down for the night, you…
-
-* Clean up and head for the parking lot.
-* Throw some scrap widget material in the machine and see what those other 13 settings do.
-* Talk to your supervisor to see if he’ll show you what those other 13 settings do.
-* Dig out the widget machine manual and take it home to read.
----
-How often do you teach yourself how to make or do something?
-
-* I’m the king of YouTube how-to videos. Half the stuff I own I made myself.
+* I rock YouTube how-to videos.
 * I once tried to screw in a lightbulb. I mostly sit in the dark now.
-* I’m a classroom kind of person. If there isn’t a teacher are you really learning anything?
----
-You just got your new flat-pack furniture home, opened the box, and found that two pages in the instructions are missing. Your next course of action is?
-
-* Spend another two hours in the car going back to the store for a complete copy of the directions.
-* Go online to try and find a copy of the directions.
-* Follow the directions as far as you can, and then test fit the remaining pieces to see if you can do it without directions.
-* Call your brother in law over to help out; he bought the same piece of furniture six months ago.
+* I’m a classroom kind of person. If there isn’t a teacher involved are you really learning anything?
+* I'm not the handiest person in the world but I've been known to dable.
 ---
 If you had to guess, the term “epoch time” means what?
 
@@ -46,19 +26,12 @@ You need to connect two computers together. The first computer uses the notional
 * 4
 * 3
 ---
-Alice cannot swim; Bob cannot ride a bike; Charlie cannot run. In a team triathlon event, who performs the first, second, and last events?
-
-* Charlie, Bob, Alice
-* Bob, Charlie, Alice
-* Alice, Charlie, Bob
-* Bob, Alice, Charlie
----
-Alice has fallen out of a tree. She is complaining of shortness of breath, is bleeding from a cut on her arm, and is crying about the pain in her ankle: what do you try to treat first?
+Alice has fallen out of a tree. She is complaining of shortness of breath, is bleeding from a cut on her arm, and is crying about the pain in her ankle: what injury do you treat first?
 
 * Her ankle
 * Her bleeding
-* Her shortness of breath
 * Her headache
+* Her shortness of breath
 ---
 In the year 2525, on what day will they celebrate Christmas in Europe?
 
@@ -67,21 +40,21 @@ In the year 2525, on what day will they celebrate Christmas in Europe?
 * 25/12/12
 * 25/25/25
 ---
+You’ve been making widgets for 10 years. Your family has made widgets going back five generations. By chance you meet someone who also makes widgets, but using a totally different technique and materials. Your response is: 
+
+* Are you seriously going to tell me how to make widgets?
+* I’ve never heard of widgets being made like that. How does it work?
+* I’m not interested, but I’m glad it's working for you.
+* Whatever you’re doing, it's not making widgets.
+---
 When I play with Legos...
 
-* I build them according to the instructions and admire my work.
+* I build them according to the instructions.
 * I bulid them according to the instructions and incorporate other bricks that I already have.
 * I try to build them without the instructions, referring to them when I get stuck.
 * I don't buy kits, I like building my own thing.
 ---
-When faced with a situation where I don't have all the tools I would normally use to complete a project I...
-
-* Wait till I can get all the tools I need.
-* Improvise with what I have.
-* Do what I can until I get to the part that needs the missing tool and let everyone know work will continue when I get the tool.
-* Call a friend and ask to borrow their tool and start once I have it.
----
-My kids came home from school today with math homework. When they showed me how they were taught to solve math problems I couldn't believe it wasn't the way I was taught.
+MYour kids came home from school today with math homework. When they showed you how they were taught to solve math problems, it was not the same way you were taught. Your response is:
 
 * Why do the schools have to mess with what works?
 * I guess there is more than one way to skin a cat.
@@ -95,7 +68,7 @@ You’re in your doctor’s waiting room and the only thing to do to pass the ti
 * Put it down and look at the tropical fish in the wall tank.
 * Ask the receptionist for something else to read; you’re a g-d adult!
 ---
-You made a mistake, but didn’t realize it at the time. The mistake became public and circumstances are such that someone else is getting all the blame. This is not a trivial matter and the repercussions could be severe.
+You made a mistake but didn’t realize it at the time. The mistake became public and circumstances are such that someone else is getting all the blame. This is not a trivial matter and the repercussions could be severe.
 
 * Better them than me.
 * Reveal the source of the problem anonymously and without naming names. The problem will get fixed and no one has to get in trouble.
@@ -130,19 +103,19 @@ You are looking up something in a search engine. The best result or answer to yo
 * Potentially none of them 
 * Any answer on the first page of results should be OK.
 ---
-You know nothing about the field of X. How do you go about getting a job in the field?
+You want to study X, but you can't afford to go to school full time. Your next step is:
 
-* Study as much as I can and join X discussion groups. Build up a reputation and then start applying for jobs.
+* Study on your own as much as you can; join X discussion groups; build up a reputation and then start applying for jobs.
 * Try to get an entry-level job in a company that does X, even if it isn't directly involved in X.
-* Find a college program i X, network, hit the job fairs before graduation.
-* Study as much as I can. Work on small personal projects in X and share them. Apply for jobs.
+* Find a commercial training/certification program in X. Its not as expensive as a degree but its better than nothing.
+* Study on your own as much as you can; work on small personal projects in X and share them; apply for jobs.
 ---
 At work, when you get done with your assigned tasks, your first instinct is to:
 
 * Take on more work.
-* Write some code, build a jig, or other task that will make my job easier.
+* Write some code, build a jig, or other task that will make your job easier.
 * Help others with their work.
-* Work on something I want to not have to.
+* Work on something you want to not have to.
 ---
 The boss always says his door is open to talk about new ideas and ways of doing things. Your take on this is:
 
@@ -158,12 +131,40 @@ You supervise a team of 10 people. One of them comes to you with a new idea for 
 * Listen to the idea, assess its worthiness and compliance with organizational standards and goals, and if the risk is low, let them try.
 * Explain the new idea to the other nine people and make sure they all adopt it. Let everyone benefit from the new approach.
 ---
+When faced with a situation where I don't have all the tools I would normally use to complete a project I...
+
+* Wait till I can get all the tools I need.
+* Improvise with what I have.
+* Do what I can until I get to the part that needs the missing tool and let everyone know work will continue when I get the tool.
+* Call a friend and ask to borrow their tool and start once I have it.
+---
+You get a job in a widget factory and as a part of your training are shown exactly the steps to take, and buttons to push on the widget making machine. Of the 20 different potential settings on the machine, you only regularly use 7. When your shift is over the factory is winding down for the night, you…
+
+* Clean up and head for the parking lot.
+* Throw some scrap widget material in the machine and see what those other 13 settings do.
+* Talk to your supervisor to see if he’ll show you what those other 13 settings do.
+* Dig out the widget machine manual and take it home to read.
+---
+Alice cannot swim; Bob cannot ride a bike; Charlie cannot run. In a team triathlon event, who performs the first, second, and last events?
+
+* Charlie, Bob, Alice
+* Bob, Charlie, Alice
+* Alice, Charlie, Bob
+* Bob, Alice, Charlie
+---
 Your work on a project was minimal. The project took off though, and it has become something of a global phenomenon. When people find out you were a part of the project you feel:
 
 * Proud
 * Ashamed
 * Conflicted
 * Sad
+---
+You just got your new flat-pack furniture home, opened the box, and found that two pages in the instructions are missing. Your next course of action is?
+
+* Spend another two hours in the car going back to the store for a complete copy of the directions.
+* Go online to try and find a copy of the directions.
+* Follow the directions as far as you can, and then test fit the remaining pieces to see if you can do it without directions.
+* Call your brother in law over to help out; he bought the same piece of furniture six months ago.
 ---
 You’re assigned to a project with two people who have less experience and skill than you do. Your first instinct is to:
 
