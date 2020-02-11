@@ -54,7 +54,7 @@ When I play with Legos...
 * I try to build them without the instructions, referring to them when I get stuck.
 * I don't buy kits, I like building my own thing.
 ---
-MYour kids came home from school today with math homework. When they showed you how they were taught to solve math problems, it was not the same way you were taught. Your response is:
+Your kids came home from school today with math homework. When they showed you how they were taught to solve math problems, it was not the same way you were taught. Your response is:
 
 * Why do the schools have to mess with what works?
 * I guess there is more than one way to skin a cat.
