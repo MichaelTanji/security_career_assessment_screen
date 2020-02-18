@@ -28,13 +28,6 @@ How often do you teach yourself how to make or repair something?
 * I’m a classroom kind of person. If there isn’t a teacher involved are you really learning anything?
 * I'm not the handiest person in the world but I've been known to dable.
 ---
-You just got your new flat-pack furniture home, opened the box, and found that two pages in the instructions are missing. Your next course of action is?
-
-* Spend another two hours in the car going back to the store for a complete copy of the directions.
-* Go online to try and find a copy of the directions.
-* Follow the directions as far as you can, and then test fit the remaining pieces to see if you can do it without directions.
-* Call your brother in law over to help out; he bought the same piece of furniture six months ago.
----
 You are a part of a five-person team that is responsible for planting 100 trees in a day. You plant 75 trees by lunch. After lunch, you’re the only one to show up. Your next step is:
 
 * Start planting sucker.
@@ -162,6 +155,13 @@ You want to study X, but you can't afford to go to school full time. Your next s
 * Try to get an entry-level job in a company that does X, even if it isn't directly involved in X.
 * Find a commercial training/certification program in X. Its not as expensive as a degree but its better than nothing.
 * Study on your own as much as you can; work on small personal projects in X and share them; apply for jobs.
+---
+You just got your new flat-pack furniture home, opened the box, and found that two pages in the instructions are missing. Your next course of action is?
+
+* Spend another two hours in the car going back to the store for a complete copy of the directions.
+* Go online to try and find a copy of the directions.
+* Follow the directions as far as you can, and then test fit the remaining pieces to see if you can do it without directions.
+* Call your brother in law over to help out; he bought the same piece of furniture six months ago.
 ---
 
 ## Humility
