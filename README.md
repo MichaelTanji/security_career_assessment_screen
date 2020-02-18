@@ -10,7 +10,7 @@ Given a 30 question test, answer as many questions as possible in the allotted t
 
 ## Conditions
 
-A copy of the test, an answer sheet (or online form), 15 minutes.
+A proctor, a copy of the test, an answer sheet (or online form), 15 minutes. No resources ("closed book") or personal assistance is allowed. 
 
 ## Standard
 
