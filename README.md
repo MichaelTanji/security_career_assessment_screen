@@ -1,4 +1,4 @@
-# Cybersecurity Career Assessment Test
+# Security Career Assessment Screen
 
 ## The Idea
 
@@ -33,3 +33,5 @@ Curiosity, Capacity, Creativity, Determination, Humility, Empathy
 **Empathy:** You're in security to help people. People who don't know as much as you do. People who have real problems that impact their lives. Taking the time to walk a mile in their shoes will produce better outcomes.
 
 ***(1) The name "Wonderlic" is copyright (C) Wonderlic, Inc. and used here simply for the purposes of example and context. This project has no connection with Wonderlic, Inc.***
+
+**(C) 2019 Michael Tanji | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**
